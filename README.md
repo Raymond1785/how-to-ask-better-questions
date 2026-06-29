@@ -1,87 +1,60 @@
 # How to Ask Better Questions
 
-> **Real stories. Real lessons. Better systems.**
+**Lessons learned from real development projects.**
 
-## Why this project?
-
-After more than 20 years working on real-world projects, I realized something important.
-
-Most project failures don't start with bad code.
-
-They start with asking the wrong questions.
-
-> **Because the cost of asking the wrong question is often rebuilding the entire system.**
-
-This repository is a collection of lessons learned from real projects.
-
-Every story begins with one simple question.
-
-Sometimes that question changed a data model.
-
-Sometimes it changed an architecture.
-
-Sometimes it changed an entire project.
-
-My hope is simple.
-
-If these stories help you ask one better question before starting your next project,
-
-then this repository has served its purpose.
+> **Every successful system starts with understanding the business, not just implementing the solution.**
 
 ---
 
-# Table of Contents
+## Why this repository?
 
-Every story starts with a real question.
+After more than 20 years of working on SAP implementation, global rollouts, AMS, and enterprise transformation projects, I realized that many expensive redesigns were not caused by poor technology.
 
-## Story 001
+They happened because the wrong questions were asked—or the right questions were never asked.
 
-**Question: Are a Company and a Stock Really the Same Thing?**
+This repository documents real stories, practical lessons, and design thinking from enterprise projects.
 
-A question that completely changed the way we modeled financial products.
+Not to teach SAP.
 
----
-
-## Story 002
-
-**Question: Can One Industry Really Describe a Company?**
-
-Why Industry was replaced by Capability.
+But to encourage better thinking before making design decisions.
 
 ---
 
-## Story 003
+## What you'll find here
 
-**Question: Why Did We Remove the Security Master?**
-
-One design decision that reshaped our entire architecture.
-
----
-
-## Story 004
-
-**Question: When Does Parent Company Stop Being Enough?**
-
-Why relationships matter more than hierarchy.
+* Real project stories
+* Lessons learned from enterprise implementations
+* Business thinking behind system design
+* Master data and architecture discussions
+* Questions that changed the direction of a project
 
 ---
 
-## Story 005
+## My philosophy
 
-**Question: Why Did We Create a Trading Specification Master?**
+> **Every successful SAP project starts with understanding the business, not just implementing SAP.**
 
-Separating trading rules from financial products.
+I believe successful implementations depend on better business decisions—not just better technology.
+
+My approach is simple.
+
+> **Solve today's problem.**
+> **Prevent tomorrow's.**
+> **Build better systems.**
+
+Because the cost of asking the wrong question is often rebuilding the entire system.
 
 ---
 
-## Story 006
+## About the stories
 
-**Question: Can One Good Example Change an Entire Architecture?**
+Every story is based on real project experience.
 
-Why the right example is often more powerful than the right definition.
+Some details have been modified or generalized to respect client confidentiality, but the lessons and design principles remain authentic.
 
 ---
 
-More stories are coming...
+## More stories are coming...
 
-More questions are waiting to be asked.
+**More questions are waiting to be asked.**
+
