@@ -1,56 +1,86 @@
 # How to Ask Better Questions
 
-**Lessons learned from real development projects.**
+> **Better questions lead to better decisions.**  
+> **Better decisions create better outcomes.**
 
-> **Every successful system starts with understanding the business, not just implementing the solution.**
+**Real stories. Real lessons. Better thinking.**
 
 ---
 
-## Why this repository?
+## Why this project?
 
-After more than 20 years of working on SAP implementation, global rollouts, AMS, and enterprise transformation projects, I realized that many expensive redesigns were not caused by poor technology.
+If you've ever faced a difficult decision, a complex problem, or felt that the obvious solution wasn't the right one, this project is for you.
 
-They happened because the wrong questions were asked—or the right questions were never asked.
+Every day, we make decisions.
 
-This repository documents real stories, practical lessons, and design thinking from enterprise projects.
+Some are small.
+Some change projects.
+Some change careers.
+Some even change lives.
 
-Not to teach SAP.
+Many poor outcomes are not caused by a lack of knowledge or experience.
 
-But to encourage better thinking before making design decisions.
+They happen because we started with the wrong question—or never asked the right one in the first place.
+
+This project is about learning how to think better by asking better questions.
+
+---
+
+## What you'll gain
+
+This isn't a collection of answers.
+
+It's a collection of ways to think.
+
+You'll discover how to:
+
+- Ask better questions before making important decisions
+- Recognize hidden assumptions behind people, processes, and ideas
+- Look beyond the obvious solution
+- Solve today's problems while preventing tomorrow's
+- Make better decisions in work and in life
 
 ---
 
 ## What you'll find here
 
-* Real project stories
-* Lessons learned from enterprise implementations
-* Business thinking behind system design
-* Master data and architecture discussions
-* Questions that changed the direction of a project
+Every article is built around a real story.
+
+Some come from enterprise projects.
+
+Some come from everyday life.
+
+Some begin with a simple conversation.
+
+Together, they explore how better questions can lead to better decisions.
 
 ---
 
 ## My philosophy
 
-> **Every successful SAP project starts with understanding the business, not just implementing SAP.**
+After more than 20 years of enterprise consulting, I've learned one lesson that applies far beyond technology.
 
-I believe successful implementations depend on better business decisions—not just better technology.
+The quality of our decisions is limited by the quality of the questions we ask.
 
 My approach is simple.
 
-> **Solve today's problem.**
-> **Prevent tomorrow's.**
-> **Build better systems.**
+> **Solve today's problem.**  
+> **Prevent tomorrow's.**  
+> **Keep learning.**
 
-Because the cost of asking the wrong question is often rebuilding the entire system.
+Because the cost of asking the wrong question is often much greater than the cost of finding the right answer.
 
 ---
 
 ## About the stories
 
-Every story is based on real project experience.
+Every story is inspired by real experiences.
 
-Some details have been modified or generalized to respect client confidentiality, but the lessons and design principles remain authentic.
+Some details have been modified or generalized to respect privacy and confidentiality.
+
+The stories may change.
+
+The lessons do not.
 
 ---
 
