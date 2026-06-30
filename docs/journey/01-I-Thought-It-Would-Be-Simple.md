@@ -28,6 +28,4 @@ I thought downloading stock prices would be the hardest part.
 
 I was wrong.
 
-I didn't know it yet,
-
 but this was only the beginning.
