@@ -4,6 +4,10 @@ I wanted to build my own Taiwan stock analysis program.
 
 At first, I believed it would be a small personal project.
 
+I wasn't trying to build a platform.
+
+I just wanted a better tool for myself.
+
 Download stock prices.
 
 Store them in a database.
@@ -20,4 +24,10 @@ Some of them seemed surprisingly simple, yet they kept appearing again and again
 
 What surprised me even more was that I couldn't find anyone discussing these problems in detail online.
 
-That was the moment I realized this project was no longer just about analyzing stocks.
+I thought downloading stock prices would be the hardest part.
+
+I was wrong.
+
+I didn't know it yet,
+
+but this was only the beginning.
