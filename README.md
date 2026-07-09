@@ -1,90 +1,86 @@
 # How to Ask Better Questions
 
-> **Better questions lead to better decisions.**  
-> **Better decisions create better outcomes.**
+> Better questions lead to better decisions.  
+> Better decisions create better outcomes.
 
 **Real stories. Real lessons. Better thinking.**
 
 ---
 
-## Why this project?
+# Why This Repository
 
-If you've ever faced a difficult decision, a complex problem, or felt that the obvious solution wasn't the right one, this project is for you.
+Most people share what finally worked.
 
-Every day, we make decisions.
+I wanted to share everything before that.
 
-Some are small.
-Some change projects.
-Some change careers.
-Some even change lives.
+The uncertainty.
 
-Many poor outcomes are not caused by a lack of knowledge or experience.
+The failed ideas.
 
-They happen because we started with the wrong question—or never asked the right one in the first place.
+The unexpected conversations.
 
-This project is about learning how to think better by asking better questions.
+The moments that completely changed the direction.
 
----
+Because those moments often teach more than the final result ever could.
 
-## What you'll gain
+This repository isn't about having all the answers.
 
-This isn't a collection of answers.
-
-It's a collection of ways to think.
-
-You'll discover how to:
-
-- Ask better questions before making important decisions
-- Recognize hidden assumptions behind people, processes, and ideas
-- Look beyond the obvious solution
-- Solve today's problems while preventing tomorrow's
-- Make better decisions in work and in life
+It's about learning how to ask better questions.
 
 ---
 
-## What you'll find here
+# 📚 Journey
 
-Every article is built around a real story.
+**Every story changed how I think.**
 
-Some come from enterprise projects.
+### 01 — I Thought It Would Be Simple
+*The first lesson about hidden complexity.*
 
-Some come from everyday life.
+### 02 — The First Prototype
+*Why the first solution is rarely the right one.*
 
-Some begin with a simple conversation.
+### 03 — Don't Sell Technology
+*People don't buy technology. They buy outcomes.*
 
-Together, they explore how better questions can lead to better decisions.
+### 04 — Never Reveal the Magic First
+*Show the result before explaining how it works.*
 
----
+### 05 — Design an Experience, Not a Presentation
+*People remember experiences, not presentations.*
 
-## My philosophy
+### 06 — Seeing Before Building
+*Sometimes seeing the idea changes everything.*
 
-After more than 20 years of enterprise consulting, I've learned one lesson that applies far beyond technology.
+### 07 — The Wrong Order Kills the Story
+*The right story, told in the wrong order, loses its impact.*
 
-The quality of our decisions is limited by the quality of the questions we ask.
-
-My approach is simple.
-
-> **Solve today's problem.**  
-> **Prevent tomorrow's.**  
-> **Keep learning.**
-
-Because the cost of asking the wrong question is often much greater than the cost of finding the right answer.
-
----
-
-## About the stories
-
-Every story is inspired by real experiences.
-
-Some details have been modified or generalized to respect privacy and confidentiality.
-
-The stories may change.
-
-The lessons do not.
+📖 Explore the complete journey in **docs/journey**.
 
 ---
 
-## More stories are coming...
+# What You'll Find Here
 
-**More questions are waiting to be asked.**
+- Real development stories
+- Product thinking
+- Software engineering lessons
+- Decision-making frameworks
+- Questions worth asking
+
+Not tutorials.
+
+Not motivational quotes.
+
+Just real lessons from building real things.
+
+---
+
+# What's Next?
+
+Every lesson becomes another story.
+
+And every story begins with a better question.
+
+If these stories resonate with you, consider giving this repository a ⭐ to follow the journey.
+
+
 
