@@ -66,6 +66,18 @@ It's about learning how to ask better questions.
 
 *They may not design the product, but they know what is inconvenient for them.*
 
+### 11. Cross-Domain Thinking Is Not Random Thinking
+*Sometimes you need to leave your field to see your own problem differently.*
+
+### 12. Build for Wow, Not Just Work
+*Build for the moment when “It works” becomes “Wow.”*
+
+### 13. The Best Questions Don’t Start With How
+*Sometimes, a difficult problem does not need a better answer. It needs a better question.*
+
+### 14. Design From the End
+*Starting from the end helps you discover what you forgot to ask.*
+
 
 📖 Explore the complete journey in **docs/journey**.
 ---
