@@ -54,15 +54,15 @@ It's about learning how to ask better questions.
 ### 07 — The Wrong Order Kills the Story
 *The right story, told in the wrong order, loses its impact.*
 
-**08 — If They Need to Translate, You Already Lost**
+###08 — If They Need to Translate, You Already Lost**
 
 *Good design removes the need for mental translation.*
 
-**09 — The Product Isn’t the Hero**
+###09 — The Product Isn’t the Hero**
 
 *The product is only the boat that gets people to the other side.*
 
-**10 — Real Users Are the Best Designers**
+###10 — Real Users Are the Best Designers**
 
 *They may not design the product, but they know what is inconvenient for them.*
 
