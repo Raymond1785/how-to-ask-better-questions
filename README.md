@@ -78,6 +78,17 @@ It's about learning how to ask better questions.
 ### 14. Design From the End
 *Starting from the end helps you discover what you forgot to ask.*
 
+### 15. Information Is Not Understanding
+
+*Seeing is not the same as understanding.*
+
+### 16. Less Data, More Meaning
+
+*More information does not always mean more clarity.*
+
+### 17. One Story Beats Forty Features
+
+*A story makes the whole system easier to understand.*
 
 📖 Explore the complete journey in **docs/journey**.
 ---
