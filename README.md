@@ -90,6 +90,26 @@ It's about learning how to ask better questions.
 
 *A story makes the whole system easier to understand.*
 
+### 18. Don’t Build What Already Exists
+
+*Building is a skill. Knowing when not to build is one too.*
+
+### 19. A Good Demo Is a Journey
+
+*A good demo should begin with the audience, not the product.*
+
+### 20. How Far Will They Follow You?
+
+*You may plan the journey, but the audience decides how far they will follow.*
+
+### 21. Confidence Must Be Built on Real Advantages
+
+*Real confidence comes from knowing why.*
+
+### 22. Something Real Enough to Question
+
+*Make the idea real enough to question.*
+
 📖 Explore the complete journey in **docs/journey**.
 ---
 
