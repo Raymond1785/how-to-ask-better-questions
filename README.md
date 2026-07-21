@@ -1,77 +1,88 @@
 # How to Ask Better Questions
 
-Better questions lead to better decisions.
-Better decisions create better outcomes.
+> **Building with AI, one better question at a time.**
 
-Real stories.
-Real lessons.
-Better thinking.
+Every meaningful project begins with a question.
 
----
+Some questions improve software.
 
-## Why This Repository
+Some improve decisions.
 
-This repository isn't about having all the answers.
+Some quietly change the way we think.
 
-It's about documenting the questions that changed how I think, build, and work with AI.
+This repository documents those questions—and the journeys they created.
 
-Some stories are about product design.
+It isn't about having all the answers.
 
-Some are about software development.
-
-Some are simply about one conversation that changed everything.
+It's about learning to ask better questions.
 
 ---
 
-# 📖 Start Here
+# 📚 Explore the Series
 
-## Before We Became Teammates
+## 🤝 Before We Became Teammates
 
 The true story of how a human and an AI gradually learned to work together.
 
-From the very first click...
+Not a tutorial.
 
-to building real products together.
+Not a prompt engineering guide.
 
-➡ Read the series
+Just real conversations, real failures, real products, and real growth.
 
----
-
-## Journey
-
-Twenty-two lessons from building real products.
-
-Not theories.
-
-Not motivational quotes.
-
-Just what actually happened.
-
-➡ Explore Journey
+📖 **[Start Reading](docs/Before-We-Became-Teammates/)**
 
 ---
 
-## What You'll Find Here
+## 🚀 Journey
 
-• Product thinking
+Every project teaches something.
 
-• Software engineering
+Every mistake reveals something.
 
-• AI collaboration
+Every breakthrough begins with a question.
 
-• Decision-making
+Journey is a collection of lessons learned while building real-world products—from healthcare decision support systems to financial intelligence platforms.
 
-• Real development stories
+These aren't theories.
 
-• Questions worth asking
+They're experiences.
+
+📖 **[Explore Journey](docs/journey/)**
 
 ---
 
-## What's Next?
+# 🌱 Topics
 
-Every lesson creates another question.
+- AI Collaboration
+- Product Thinking
+- Software Engineering
+- Decision Support Systems (DSS)
+- Healthcare AI
+- Financial Intelligence
+- Knowledge Management
+- Learning by Building
 
-Every question becomes another story.
+---
 
-And every story begins with a better question.
+# Why "Better Questions"?
 
+Most people search for better answers.
+
+I've learned that better answers usually begin with better questions.
+
+A better question changes what we notice.
+
+A better question changes what we build.
+
+Sometimes...
+
+a better question changes everything.
+
+---
+
+## Thank you for visiting.
+
+If even one story inspires you to ask a better question,
+
+then this repository has already achieved its purpose.
