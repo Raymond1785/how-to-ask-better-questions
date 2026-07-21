@@ -1,45 +1,40 @@
 # Before We Became Teammates
 
-## Chapter 1 — Before We Knew Each Other
+## Part I — Strangers
 
-> Every partnership begins long before the first conversation.
+### Chapter 1 — Before We Knew Each Other
 
-Before ChatGPT became part of my daily work,
-it was just another website.
+> Every partnership begins with a simple decision.
 
-I wasn't looking for an AI assistant.
+I just wanted to write a small program for Taiwan stocks.
 
-I wasn't trying to learn prompt engineering.
+Nothing fancy.
 
-I simply wanted to solve one small problem.
+Just something that could download market prices, calculate a few indicators, and help me build my own analysis tool.
 
-I wanted to write a program for Taiwan stocks.
+Something I could run on my own computer.
 
-Nothing ambitious.
+I had plenty of ideas.
 
-Just something that could download market data,
-calculate a few indicators,
-and help me analyze the market on my own computer.
-
-At that time, everything was manual.
+But I was doing everything by hand.
 
 Copying numbers.
 
 Checking charts.
 
-Comparing spreadsheets.
-
 Repeating the same work every day.
 
-I had heard that people were asking AI to write code.
+It was slow.
 
-One evening,
-with a stock chart on one side of my screen
-and an empty editor on the other,
+I had heard people were using AI to write code.
 
-I didn't search for tutorials.
+I didn't know much about it.
 
-I didn't compare different AI models.
+One night, with a stock chart open on one side of my screen and an empty editor on the other,
+
+I didn't look for a tutorial.
+
+I didn't compare different AI tools.
 
 I didn't even know what prompt engineering was.
 
